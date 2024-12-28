@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Ahmad Syauqie Bin Ahmad
+### Aspiring Software Engineer | Administrative Executive at Indera Jaya Construction | Passionate About Technology and Innovation
 <div align="center">
 <img src="https://github.com/ASA42000/ASA42000/blob/main/Congratulations_You_Found_Me.jpg?raw=true" align="center" height="200" width="500" />
 </div> 
