@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hello! My name is Ahmad Syauqie Bin Ahmad. I am pursuing a degree in Software Engineering at Universiti Teknologi Malaysia, building on my foundation in Engineering Technology in Avionic Maintenance, from which I have graduated with a Diploma.<br><br>Professionally, I am an Administrative Executive at Indera Jaya Construction Sdn Bhd, where I leverage my skills in Microsoft Excel and Microsoft Project to efficiently manage projects and administrative operations. My role has honed my organizational, problem-solving, and team collaboration skills, which I integrate into my technical projects.<br><br>I am actively engaged in technology-driven projects, including developing a Smart Clinic System as part of my coursework.<br><br>As someone who enjoys continuous learning and self-improvement, I am also building my e-portfolio on GitHub to showcase my projects, skills, and achievements. I aim to create a positive impact in the fields of software engineering and technology innovation.<br><br>Feel free to explore my repositories and connect with me as I document my journey and contribute to meaningful projects!
 <div align="center">
-<img src="https://media.istockphoto.com/id/2151295139/photo/professional-online-gamer-hand-fingers.jpg?s=612x612&w=0&k=20&c=6W7F8mCZ_uMYDJJ_eXa3AZL3qLt3oGUQT8IysK6ZxC8=" align="center" height="200" width="500" />
-</div>  
+<img src="https://github.com/ASA42000/ASA42000/blob/main/Congratulations_You_Found_Me.jpg?raw=true" align="center" height="200" width="500" />
+</div>   
 
 ## 📚 Education:  
 - Bachelor's Degree in Software Engineering (in progress) - Universiti Teknologi Malaysia 
